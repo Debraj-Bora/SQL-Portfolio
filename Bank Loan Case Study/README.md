@@ -24,6 +24,6 @@ Bad Loan KPIs:
 - Bad Loan Funded Amount: Determining the total amount of funds disbursed as 'Bad Loans.' This comprises the principal amounts of loans with a loan status of 'Charged Off.'
 - Bad Loan Total Received Amount: Tracking the total amount received from borrowers for 'Bad Loans,' which includes all payments made on loans with a loan status of 'Charged Off.'
 
-- SQL Skills Used: Table Creation, Removing Duplicates, Data Type Conversion, String Manipulation, Aggregations, Group By, Joins, Date Functions, Window Functions.
+### SQL Skills Used: Table Creation, Removing Duplicates, Data Type Conversion, String Manipulation, Aggregations, Group By, Joins, Date Functions, Window Functions.
 - [View Data Cleaning SQL Script](https://github.com/Debraj-Bora/SQL-Portfolio/blob/main/Bank%20Loan%20Case%20Study/loan_DataCleaning.sql)
 - [View EDA SQL Script](https://github.com/Debraj-Bora/SQL-Portfolio/blob/main/Bank%20Loan%20Case%20Study/loan_EDA.sql)
