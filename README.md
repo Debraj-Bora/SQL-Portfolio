@@ -12,3 +12,7 @@ Welcome to my SQL portfolio! This repository contains a collection of my SQL pro
   - SQL Skills Used: Table Creation, Removing Duplicates, Data Type Conversion, String Manipulation, Aggregations, Group By, Joins, Date Functions, Window Functions.
   - [View Data Cleaning SQL Script](https://github.com/Debraj-Bora/SQL-Portfolio/blob/main/Bank%20Loan%20Case%20Study/loan_DataCleaning.sql)
   - [View EDA SQL Script](https://github.com/Debraj-Bora/SQL-Portfolio/blob/main/Bank%20Loan%20Case%20Study/loan_EDA.sql)
++ Project: Bikestore Sales Analysis
+  - Description: In this project, we extracted and transformed data from multiple tables to create a final structured dataset for analysis. Using SQL, we joined customer, order, product, store, and sales staff tables to consolidate key metrics such as total units sold and revenue. The data was then aggregated to optimize performance for visualization in Tableau, enabling insights into sales trends, product performance, and regional distribution. The script for creating tables can be found [here](https://github.com/Debraj-Bora/Bike-Store-Sales-Analysis/blob/main/BikeStores%20Sample%20Database%20-%20create%20objects.sql), and the data [here](https://github.com/Debraj-Bora/Bike-Store-Sales-Analysis/blob/main/BikeStores%20Sample%20Database%20-%20load%20data.sql).
+  - SQL Skills Used: Data Extraction, Joins, Aggregations, Group By, String Manipulation, Data Filtering.
+  - [View SQL Script](https://github.com/Debraj-Bora/Bike-Store-Sales-Analysis/blob/main/bike_store_sales.sql)
